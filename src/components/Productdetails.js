@@ -33,7 +33,7 @@ const ProductDetails = () => {
       ) : (
         <div className="ui placeholder segment">
           <div className="ui two column stackable center aligned grid">
-            <div className="ui vertical divider">AND</div>
+        
             <div className="middle aligned row">
               <div className="column lp">
                 <img className="ui fluid image" src={image} />
